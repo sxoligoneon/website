@@ -4,7 +4,7 @@ module.exports = {
     description: 'Ο επίσημος ιστότοπος της Σχολής Γονέων ΙΜ Σερρών & Νιγρίτης με εισηγήτρια της κ. Χάρη Δημητρακούδη.',
     siteUrl: `https://www.sxoligoneon.gr`
   },
-  pathPrefix: "/sxoligoneon",
+  pathPrefix: '/sxoligoneon',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',

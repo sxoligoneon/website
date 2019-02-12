@@ -40,12 +40,12 @@
   "scripts": {
     "start": "npm run develop",
     "clean": "rimraf .cache public",
-    "build": "npm run clean && gatsby build",
+    "build": "npm run clean && gatsby build --prefix-paths",
     "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d docs"
+    "deploy": "npm run build && gh-pages -d docs"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",

@@ -1,4 +1,4 @@
-# Sxoli Goneon CMS
+# Gatsby CMS
 
 This repo contains an online website that is built with [Gatsby](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org).
 
@@ -8,8 +8,8 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ### Development
 ```
-$ git clone https://github.com/theodorosploumis/sxoligoneon.git
-$ cd parents
+$ git clone [GIT-URL]
+$ cd [FOLDER]
 $ yarn
 $ npm run develop
 ```

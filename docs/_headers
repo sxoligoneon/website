@@ -8,36 +8,36 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/sxoligoneon/about/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/blog/archive-2019-02-11/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/links/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/media/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/tags/2018-2019/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/tags/συναντήσεις/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/404/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/contact/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/tags/
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
-/sxoligoneon/404.html
-  Link: </sxoligoneon/webpack-runtime-92534565c0bf34832f93.js>; rel=preload; as=script
-  Link: </sxoligoneon/0-fa1ebe0dc98fca22797c.js>; rel=preload; as=script
+/website/about/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/blog/archive-2019-02-11/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/links/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/media/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/2018-2019/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/συναντήσεις/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/404/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/contact/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/tags/
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script
+/website/404.html
+  Link: </website/webpack-runtime-137308848bfb8e1e9adc.js>; rel=preload; as=script
+  Link: </website/0-00cf9e484708a4efa52f.js>; rel=preload; as=script

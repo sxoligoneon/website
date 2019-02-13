@@ -6794,7 +6794,9 @@ div .navbar {
   max-height: initial; }
 
 .content a .blog-list-item,
-footer a {
+footer a,
+p a,
+li > a {
   color: #D64000; }
 
 .content .taglist {
@@ -6814,6 +6816,12 @@ footer a {
 
 div .section {
   padding: 3em 0 2em; }
+
+.content li {
+  margin-bottom: 1em; }
+
+.column > .content {
+  max-width: 800px; }
 
 .full-width-image-container {
   width: 100vw;

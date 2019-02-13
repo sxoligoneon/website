@@ -8026,11 +8026,14 @@ function (_React$Component) {
       to: "/about"
     }, "\u0397 \u03A3\u03C7\u03BF\u03BB\u03AE"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
       className: "navbar-item",
+      to: "/notes"
+    }, "\u03A3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+      className: "navbar-item",
       to: "/links"
     }, "\u03A3\u03CD\u03BD\u03B4\u03B5\u03C3\u03BC\u03BF\u03B9"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
       className: "navbar-item",
       to: "/media"
-    }, "\u0391\u03C1\u03C7\u03B5\u03AF\u03B1"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+    }, "\u0391\u03C1\u03C7\u03B5\u03AF\u03BF"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_3__["Link"], {
       className: "navbar-item",
       to: "/contact"
     }, "\u0395\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AF\u03B1")), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
@@ -8047,7 +8050,7 @@ function (_React$Component) {
 /* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/logo-875f6bcb3cdbe68e112194b6968461f8.svg";
+module.exports = __webpack_require__.p + "static/logo-627517616967202489e592580f2fceb1.svg";
 
 /***/ }),
 /* 145 */
@@ -8170,7 +8173,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "column is-10"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    className: "title is-size-2 has-text-weight-bold is-bold-light"
+    className: "title is-size-3 has-text-weight-bold is-bold-light"
   }, title), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostContent, {
     content: content
   }), tags && tags.length ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {

@@ -1,11 +1,8 @@
 ---
 templateKey: 'about-page'
 path: /media
-title: Αρχεία και αναφορές
+title: Αρχείο online ομιλιών
 ---
-
-### Αρχεία σε mp3
-
 
 ### Ομιλίες στο Youtube
 1. ["Τα όρια στις διαπροσωπικές σχέσεις", 2018](https://www.youtube.com/watch?v=Vo0-EcuJIr8)
@@ -22,3 +19,5 @@ title: Αρχεία και αναφορές
 1. ["Η γαλήνη της οικογένειας και η τρικυμία της κοινωνίας", 2012](https://www.youtube.com/watch?v=TjnwOhz8-Tw)
 1. ["Για να γνωρίσουμε την εφηβεία των παιδιών μας", 2010](https://www.youtube.com/watch?v=ok3dVynASbI)
 1. [Εκπομπές "Μαθαίνω να είμαι γονιός" στο 4Ε](https://www.youtube.com/results?search_query=%CE%BC%CE%B1%CE%B8%CE%B1%CE%B9%CE%BD%CF%89+%CE%BD%CE%B1+%CE%B5%CE%B9%CE%BC%CE%B1%CE%B9+%CE%B3%CE%BF%CE%BD%CE%B9%CE%BF%CF%82)
+
+### Αρχεία σε mp3

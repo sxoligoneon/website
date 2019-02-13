@@ -50,7 +50,6 @@ export default class Index extends React.Component {
                   <li><label className="has-text-weight-bold">Τοποθεσία:</label> Νίκου Νικολάου 21, Σέρρες 62124</li>
                   <li><label className="has-text-weight-bold">Τηλέφωνα:</label> 23210.53765</li>
                   <li><label className="has-text-weight-bold">Email:</label> myriobiblos@imsn.gr</li>
-                  <li><label className="has-text-weight-bold">Φόρμες:</label> <a href='img/files/entypo_melous_2018-2019.pdf' target='_blank'>νέο μέλος 2018-2019</a></li>
                 </ul>
               </p>
 

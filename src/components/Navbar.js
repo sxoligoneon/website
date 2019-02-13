@@ -51,11 +51,14 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/about">
           Η Σχολή
         </Link>
+        <Link className="navbar-item" to="/notes">
+          Σημειώσεις
+        </Link>
         <Link className="navbar-item" to="/links">
           Σύνδεσμοι
         </Link>
         <Link className="navbar-item" to="/media">
-          Αρχεία
+          Αρχείο
         </Link>
         <Link className="navbar-item" to="/contact">
           Επικοινωνία
